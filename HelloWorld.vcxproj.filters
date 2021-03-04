@@ -16,7 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="HelloWorld.h">
-      <Filter>PP:YXORYOSSTOSPU[UWXPV;;</Filter>
+      <Filter></Filter>
     </ClCompile>
   </ItemGroup> 
   <ItemGroup>
